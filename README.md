@@ -6,7 +6,7 @@ O objetivo do Aluraflix é ser um Netflix da Alura. Nele você terá sugestões 
 Como React oferece várias formas de uma pessoa utilizar na sua aplicação.
 E utilizaremos também da biblioteca Styled Components que pode ser instalada facilmente no seu projeto, para estilização.
 
-[Clique aqui para visualizaçäo prévia da aplicaçäo!](https://karinewagner.github.io/projeto-aluraflix.github.io/)
+[Clique aqui para visualizaçäo prévia da aplicaçäo!](https://karinewagner.github.io/projeto-aluraflix/)
 
 ![preview](./.github/previews.PNG)
 
